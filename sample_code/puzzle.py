@@ -1,4 +1,4 @@
-from logic import *
+from explain_code.logic import *
 
 people = ["Gilderoy", "Pomona", "Minerva", "Horace"]
 houses = ["Gryffindor", "Hufflepuff", "Ravenclaw", "Slytherin"]

@@ -1,4 +1,4 @@
-from logic import *
+from explain_code.logic import *
 
 rain = Symbol("rain")
 hagrid = Symbol("hagrid")

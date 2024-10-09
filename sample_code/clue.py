@@ -1,6 +1,6 @@
 import termcolor
 
-from logic import *
+from explain_code.logic import *
 
 mustard = Symbol("ColMustard")
 plum = Symbol("ProfPlum")

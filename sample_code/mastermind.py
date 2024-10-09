@@ -1,4 +1,4 @@
-from logic import *
+from explain_code.logic import *
 
 colors = ["red", "blue", "green", "yellow"]
 symbols = []
